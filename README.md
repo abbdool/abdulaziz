@@ -18,7 +18,7 @@
 
 📫 **Let's connect**:
 - Email: abdlazz244@gmail.com
-- LinkedIn: [linkedin.com/in/abdul-aziz]([https://linkedin.com/in/abdul-aziz](https://www.linkedin.com/in/abdul-aziz-3ba16826a/))
+- LinkedIn: [linkedin.com/in/abdul-aziz-3ba16826a](https://www.linkedin.com/in/abdul-aziz-3ba16826a/)
 - GitHub: [github.com/abdulaziz](https://github.com/abbdool)
 
 🌟 **Fun Fact**: I thrive on challenges! Whether it's debugging a tricky piece of code or figuring out how something works, I love the thrill of solving problems. Plus, I never say no to a good cup of black coffee while doing it!
